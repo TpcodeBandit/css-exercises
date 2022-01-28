@@ -1,0 +1,17 @@
+/* applies to both buttons */
+.thisone, 
+.noone {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* first element */
+.thisone {
+    background-color: black;
+    color: white;
+}
+
+/* second element */ 
+.noone {
+    background-color: yellow;
+}
